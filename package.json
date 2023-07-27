@@ -1,7 +1,7 @@
 {
   "name": "myfirstreact",
   "version": "0.1.0",
-  "homepage": "https://github.com/HosseinFatehi07/ReactApp.git",
+  "homepage": "https://hosseinfatehi07.github.io/ReactApp/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
