@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/HosseinFatehi07/ReactApp.git/static/js/main.91976a66.js",
-    "index.html": "/HosseinFatehi07/ReactApp.git/index.html",
-    "main.91976a66.js.map": "/HosseinFatehi07/ReactApp.git/static/js/main.91976a66.js.map"
+    "main.js": "/ReactApp/static/js/main.91976a66.js",
+    "index.html": "/ReactApp/index.html",
+    "main.91976a66.js.map": "/ReactApp/static/js/main.91976a66.js.map"
   },
   "entrypoints": [
     "static/js/main.91976a66.js"
